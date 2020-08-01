@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning or exploring the Machine Learning Domain
 - 🤔 I’m looking for help on various domains of Machine Learning.
 - 💬 Ask me about Web Development and Programming.
-- 📫 How to reach me: prachimishra@gmail.com 
+- 📫 How to reach me: prachisabita1507@gmail.com 
 - ⚡ Fun fact: I make memes
 
