@@ -42,7 +42,7 @@
 <a href="https://github.com/PSM1729">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSM1729&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/PSM1729">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PSM1729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Prachhi's stat">
 </a>
 
