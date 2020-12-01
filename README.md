@@ -1,4 +1,4 @@
-## Hii, I'm [Prachhi Sabita Mishra!](https://psm1729.github.io/Portpolio/) 👋
+## Hii, I'm [Prachhi Sabita Mishra!](https://psm1729.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PSM1729&label=Views&color=blue&style=plastic" alt="PSM1729" /> </p>
 
