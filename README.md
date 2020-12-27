@@ -8,7 +8,7 @@
 <a href="https://github.com/PSM1729">
   <img align="left" alt="Prachhi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/itsmepsm1729/?hl=en">
+<a href="https://www.instagram.com/itsmepsm/">
   <img align="left" alt="Prachhi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
